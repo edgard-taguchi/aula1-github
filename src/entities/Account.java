@@ -12,7 +12,7 @@ public class Account {
 		this.number = number;
 		this.holder = holder;
 		deposit(initialDeposit);
-// valor inicial é um deposito
+// valor inicial já é um deposito
 //		this.balance = balance;
 	}
 	
